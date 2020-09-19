@@ -131,6 +131,10 @@ html {
   background-color: #00acee;
 }
 
+.smedia-list .amazon:after {
+  background-color: #FF9900;
+}
+
 .smedia-list__link {
   display: -webkit-box;
   display: -ms-flexbox;
